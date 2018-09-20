@@ -1,0 +1,98 @@
+vetor pesos sinapticos original:
+0.876888
+0.578722
+0.086398
+0.721366
+0.849666
+0.343425
+0.792077
+0.458480
+0.515671
+0.394971
+0.443678
+0.219611
+0.679861
+0.772240
+0.063753
+0.019837
+0.549638
+0.595630
+0.562975
+0.811274
+0.716483
+0.247444
+0.824274
+0.355632
+0.162908
+0.475936
+0.015442
+0.411786
+0.326060
+0.329569
+0.411634
+**************
+vetor pesos sinapticos final:
+0.876888
+-0.044042
+-0.067238
+0.721366
+0.849666
+-0.004891
+0.792077
+-0.091384
+0.515671
+0.394971
+-0.024754
+0.219611
+-0.169699
+-0.073160
+-0.051929
+-0.183859
+0.549638
+0.595630
+0.562975
+0.811274
+-0.095401
+0.247444
+0.824274
+0.355632
+0.162908
+-0.011566
+-0.107870
+0.411786
+-0.258068
+0.329569
+@@@@@@@@@@@@@@@@
+
+qtds epocas = 20
+
+-0.356500 pertence a classe A
+0.062000 pertence a classe B
+5.989100 pertence a classe B
+-0.784200 pertence a classe B
+1.126700 pertence a classe A
+5.591200 pertence a classe A
+0.301200 pertence a classe A
+0.561100 pertence a classe A
+5.823400 pertence a classe A
+0.775700 pertence a classe B
+1.064800 pertence a classe B
+8.067700 pertence a classe B
+0.157000 pertence a classe B
+0.802800 pertence a classe B
+6.304000 pertence a classe B
+-0.701400 pertence a classe B
+1.031600 pertence a classe A
+3.600500 pertence a classe A
+0.374800 pertence a classe B
+0.153600 pertence a classe B
+6.153700 pertence a classe B
+-0.692000 pertence a classe B
+0.940400 pertence a classe A
+4.405800 pertence a classe A
+-1.397000 pertence a classe A
+0.714100 pertence a classe B
+4.926300 pertence a classe B
+-1.884200 pertence a classe A
+-0.280500 pertence a classe A
+1.254800 pertence a classe B
